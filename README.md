@@ -1,6 +1,7 @@
 <img src="https://github.com/MArsalan9789/MArsalan9789/blob/main/banner.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm Arsalan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F204702745549241158%2F&psig=AOvVaw1VI2SwTLXo0E04S-4d6Vwy&ust=1747287198009000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi6lJ2eoo0DFQAAAAAdAAAAABAf" width="400px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marsalan9789&label=Profile%20views&color=0e75b6&style=flat" alt="marsalan9789" /> </p>
 
