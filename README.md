@@ -1,3 +1,4 @@
+<img src="https://github.com/MArsalan9789/MArsalan9789/blob/main/banner.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm Arsalan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
